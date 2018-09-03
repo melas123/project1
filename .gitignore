@@ -41,3 +41,5 @@ frontend/dist/*.css
 frontend/dist/*.map
 frontend/dist/*.json
 backend/reports
+# starterUrl
+starterUrl
